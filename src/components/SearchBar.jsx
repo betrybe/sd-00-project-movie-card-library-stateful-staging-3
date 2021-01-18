@@ -22,7 +22,6 @@ class SearchBar extends Component {
             id="search"
             data-testid="text-input"
             value={searchText}
-            onChange={onSearchTextChange}
           />
         </label>
 

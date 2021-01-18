@@ -10,12 +10,12 @@ class AddMovie extends Component {
     this.handleSubmit = this.handleSubmit.bind(this);
 
     this.state = {
-      subtitle: '',
-      title: '',
-      imagePath: '',
-      storyline: '',
-      rating: 0,
-      genre: 'action',
+      subtitle: 'la',
+      title: 'lala',
+      imagePath: 'lalala',
+      storyline: 'lalalala',
+      rating: 5,
+      genre: 'actionla',
     };
   }
 
